@@ -1,0 +1,135 @@
+.login {
+  display: flex;
+  margin: auto;
+  padding: 30px 100px;
+
+}
+
+.login-left {
+  width: 60%;
+  height: 90vh;
+  /* margin: auto; */
+  padding: 20px 0px;
+  padding-bottom: 10px;
+}
+
+.login-top {
+  padding: 40px 30px;
+}
+
+.login-top h1 {
+  font-weight: bold;
+  font-family: Roboto;
+}
+
+.login-top p {
+  color: grey;
+}
+
+.login-input {
+  padding: 10px 10px;
+}
+
+.login-input-options {
+  padding: 10px;
+}
+
+.login-left Input {
+  border-radius: 20px;
+}
+
+.login-bottom {
+  padding: 10px 20px;
+}
+
+.login-bottom-options {
+  padding-top: 10px;
+}
+
+.login-bottom-options Button {
+  width: 100%;
+  background-color: #5138ED;
+  color: white;
+  border-radius: 20px;
+}
+
+.login-right {
+  margin: 20px 0px;
+  width: 40%;
+  background-color: #5037EB;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center;
+    flex-direction: column; */
+}
+.dark-login {
+  margin: 20px 0px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+color: white;
+  background-color: #161616;
+}
+.card {
+  background-color: white;
+}
+
+.dark-card {
+  background-color: #161616;
+  color: white;
+  border: none;
+}
+.image {
+  /* width: 30%; */
+  height: 20%;
+  padding-top: 20px;
+}
+.input-light {
+  background-color: transparent;
+}
+
+.input-dark {
+  background-color: #585858;
+}
+.button {
+  width: 100%;
+  background-color: #5138ED;
+  color: white;
+  border-radius: 20px;
+}
+
+.darkmode-button {
+  width: 100%;
+  /* background-color: #5138ED; */
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+  color: white;
+  border-radius: 20px;
+}
+
+
+
+.login-right-top {
+  padding: 20px;
+}
+
+.login-right-bottom {
+  padding-top: 40px;
+  text-align: center;
+}
+
+/* .login-right-details{
+    margin: auto;
+    padding: 20px;
+  }
+  .login-right-details h1{
+  padding-left: 30%;
+  
+  }
+  .login-right-details p{
+    padding-left: 20%;
+    color: white;
+  
+  } */
